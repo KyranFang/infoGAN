@@ -1,5 +1,5 @@
-# infoGAN-pytorch
-Implementation of infoGAN using PyTorch
+# infoGAN
+Implementation of infoGAN using PyTorch for EE142 Information Theory @ ShanghaiTech
 
 ## Results
 **Catagorical variable(K) and continue variable (c1)**<br />

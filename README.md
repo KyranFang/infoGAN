@@ -5,9 +5,9 @@ Implementation of infoGAN using PyTorch for EE142 Information Theory @ ShanghaiT
 **Catagorical variable(K) and continue variable (c1)**<br />
 Row represents categorical variable from K = 0 to K = 9 (top to buttom) to characterize digits.<br />
 Column represents continue variable (c1) (Width) varying from -1 to 1(left to right).<br />
-![c1](./asset/c1.png)
+![c1](./asset/1.png)
 
 **Catagorical variable(K) and continue variable (c2)**<br />
 Row represents categorical variable from K = 0 to K = 9 (top to buttom) to characterize digits.<br />
 Column represents continue variable (c2) (Rotation) varying from -1 to 1(left to right).<br />
-![c2](./asset/c2.png)
+![c2](./asset/2.png)

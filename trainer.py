@@ -3,7 +3,7 @@ import torch.nn as nn
 import torch.optim as optim
 from torch.autograd import Variable
 import torch.autograd as autograd
-
+  
 import torchvision.datasets as dset
 import torchvision.transforms as transforms
 from torch.utils.data import DataLoader

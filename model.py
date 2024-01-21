@@ -6,7 +6,7 @@ class FrontEnd(nn.Module):
 
   def __init__(self):
     super(FrontEnd, self).__init__()
-
+  
     self.main = nn.Sequential(
       nn.Conv2d(1, 64, 4, 2, 1),
       nn.LeakyReLU(0.1, inplace=True),

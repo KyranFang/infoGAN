@@ -1,6 +1,6 @@
 from model import *
 from trainer import Trainer
-
+  
 
 fe = FrontEnd()
 d = D()
